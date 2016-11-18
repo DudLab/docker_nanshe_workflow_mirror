@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/nanshe-org/docker_nanshe_workflow_mirror/tree/master.svg?style=shield)](https://circleci.com/gh/nanshe-org/docker_nanshe_workflow_mirror)
+[![DockerHub](https://img.shields.io/docker/automated/nanshe/nanshe_workflow.svg)](https://hub.docker.com/r/nanshe/nanshe_workflow)
 
 # Purpose
 
