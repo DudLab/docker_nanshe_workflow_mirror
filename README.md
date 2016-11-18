@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/nanshe-org/docker_nanshe_workflow_mirror/tree/master.svg?style=shield)](https://circleci.com/gh/nanshe-org/docker_nanshe_workflow_mirror)
+
 # Purpose
 
 Allows for a lightweight mirroring of the `nanshe_workflow` container ( <https://quay.io/repository/nanshe/nanshe_workflow> ). Thus, codebases pulling from the original `quay.io/nanshe/nanshe_workflow` image will still pull the same common layers.
