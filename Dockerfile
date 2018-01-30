@@ -1,1 +1,1 @@
-FROM quay.io/nanshe/nanshe_workflow:latest
+FROM quay.io/nanshe/nanshe_workflow:sge
